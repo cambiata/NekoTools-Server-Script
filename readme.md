@@ -27,4 +27,4 @@ In Explorer, rightclick on the folder where you want to start Nekotools Server, 
 
 This starts nekotools with the following parameters: **nekotools server -rewrite -d %1**, where %1 being the path to the rightclicked folder.
 
-Now, you should be able to browse to **"http://localhost:2000/"**.
+Now, you should be able to browse to **"http://localhost:2000/"**. index.htm and index.n (compiled neko files) are served automatically.
